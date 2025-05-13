@@ -1,0 +1,8 @@
+*.o
+
+fm2ToC
+
+*.bin
+*.dump
+*.elf
+*.inc
